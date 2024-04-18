@@ -1,10 +1,10 @@
 /*!
 
  =========================================================
- * Awesome Landing Page - v1.2.2
+ * BlueRipple Landing Page v.1.2
  =========================================================
  
- * Product Page: https://www.creative-tim.com/product/awesome-landing-page
+ * Product Page: https://www.newpotatotech.com/products/blueripple.html
  * Copyright 2017 Creative Tim (http://www.creative-tim.com)
  * Licensed under MIT (https://github.com/creativetimofficial/awesome-landing-page/blob/master/LICENSE.md)
  
@@ -112,7 +112,7 @@
      return ((elemTop < viewportBottom) && (elemBottom > viewportTop));
  }
 
- var acc = document.getElementsByClassName("accordion");
+ var acc = document.getElementsByClassName("accordion-item");
  var i;
 
  for(i =0; i < acc.length; i++) {
