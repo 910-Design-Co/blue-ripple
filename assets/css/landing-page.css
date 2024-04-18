@@ -293,8 +293,8 @@ background-color: #fff;
 }
 
 .btn-info {
-  border-color: #2ca8ff;
-  color: #2ca8ff;
+  border-color: #3963AC;
+  color: #3963AC;
   padding: 10px 18px 0px 18px;
   
 }
@@ -321,7 +321,7 @@ background-color: #fff;
   border-top-color: white;
 }
 .btn-info .caret {
-  border-top-color: #2ca8ff;
+  border-top-color: #3963AC;
 }
 
 .btn-warning {
